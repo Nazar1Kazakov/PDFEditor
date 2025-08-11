@@ -1,0 +1,13 @@
+black==25.1.0
+click==8.2.1
+colorama==0.4.6
+mypy_extensions==1.1.0
+packaging==25.0
+pathspec==0.12.1
+pillow==11.3.0
+platformdirs==4.3.8
+PyMuPDF==1.26.3
+pypdf==5.8.0
+PyQt6==6.9.1
+PyQt6-Qt6==6.9.1
+PyQt6_sip==13.10.2
