@@ -30,7 +30,7 @@ class Toolbar(QWidget):
         new_text = self.input_text.text()  
         editor = PDFEditor(self.doc)
         editor.replace_text(
-            "Sergei Cheremnykh",  
+            "Lorem",
             new_text,              
             config.ROBOTO_REGULAR_PATH
         )
